@@ -1,0 +1,20 @@
+body{
+    background-color: lightgrey;
+    margin: 0;
+}
+
+header{
+    background-color: white;
+}
+
+.logo-titolo{
+    padding: 15px 15px;
+}
+    
+
+#intestazione{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: 800;
+    vertical-align: 18px;
+}
