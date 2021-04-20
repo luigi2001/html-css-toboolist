@@ -18,3 +18,11 @@ header{
     font-weight: 800;
     vertical-align: 18px;
 }
+
+main{
+    width: 1000px;
+    height: 1000px;
+    margin: 30px 250px;
+    background-color: white;
+    border-radius: 15px 15px 15px 15px;
+}
