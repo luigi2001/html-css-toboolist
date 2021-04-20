@@ -26,3 +26,38 @@ main{
     background-color: white;
     border-radius: 15px 15px 15px 15px;
 }
+
+/* inzio formatazione bottoni*/
+
+.button{
+   padding: 25px 50px;
+   border-bottom: 1px solid lightgrey;
+}
+
+#task-b, #section-b{
+    border-radius: 5px 5px 5px 5px;
+}
+
+#task-b{
+    background-color: lightskyblue;
+}
+
+#section-b{
+    background-color: white;
+}
+
+#task{
+    font-size: 25px;
+    color: white;
+}
+
+#section{
+    font-size: 25px;
+    color: lightgrey;
+}
+
+/* fine formatazione bottoni*/
+
+
+
+
